@@ -3,4 +3,6 @@ h1 {
 	font-weight: bold;
 	font-family: sans-serif;
 	color: gray;
+	text-align: center;
+	margin-top: 40px;
 }
