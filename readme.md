@@ -12,7 +12,7 @@ Para correr el programa debemos:
 - Iniciar un nuevo repositorio
 - Vincular la carpeta local con el repositorio
 
-### Cargar noticias
+### subir actualizaciones
 
 1. Git add
 2. Git commit -m
